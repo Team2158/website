@@ -1,4 +1,5 @@
-website
+Website
 =======
 
-All team web elements are here.
+All team web stuff stored here.
+
